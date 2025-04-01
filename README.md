@@ -22,7 +22,7 @@ Both the frontend and backend can also be started separately. Please refer to th
 
 ### Notes on Testing and Data
 * the 'database' of ```.json``` files is located in ```/backend/src/data/```
-  - Use these dates in the UI to get data: **2024-03-30**, **2024-03-31**, **2024-04-02**, **2025-02-02** and **2025-01-05**
+  - Use these dates in the UI to get data: **2024-03-30**, **2024-03-31**, **2024-04-01**, **2024-04-02**, **2025-02-02** and **2025-01-05**
 * Backend unit tests are located in ```/backend/tests```
 * Frontend unit tests are located in a ```__tests__``` directory in each of ```/frontend/src/pages```, ```/frontend/src/components``` and ```frontend/src/lib```
 
