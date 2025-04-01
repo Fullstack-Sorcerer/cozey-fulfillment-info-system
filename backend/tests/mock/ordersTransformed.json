@@ -1,0 +1,90 @@
+[
+  {
+    "orderDate": "2024-03-30",
+    "lineItems": [
+      { "productName": "Valentines Box", "components": ["Red Roses Bouquet", "Box of chocolates", "Love card", "Women's perfume"], "quantity": 1 },
+      { "productName": "Birthday Box", "components": ["Birthday cupcake", "$100 Visa Gift Card", "Birthday card"], "quantity": 1 },
+      { "productName":"Client Gift Box", "components": ["Bottle of wine", "Fruit basket", "Pen"], "quantity": 1 }
+    ],
+    "shipsTo": {
+        "customerName": "John Smith",
+        "shippingAddress": "100 Dundas Street East"
+    }
+  },
+  {
+    "orderDate": "2024-03-31",
+    "lineItems": [
+      {
+        "productName": "Valentines Box",
+        "components": ["Red Roses Bouquet", "Box of chocolates", "Love card", "Women's perfume"],
+        "quantity": 1
+      }
+    ],
+    "shipsTo": {
+      "customerName": "Rob Smith",
+      "shippingAddress": "100 Queen Street East"
+    }
+  },
+  {
+    "orderDate": "2024-03-30",
+    "lineItems": [
+      {
+        "productName": "Birthday Box",
+        "components": ["Birthday cupcake", "$100 Visa Gift Card", "Birthday card"], 
+        "quantity": 1
+      },
+      {
+        "productName": "Client Gift Box",
+        "components": ["Bottle of wine", "Fruit basket", "Pen"], 
+        "quantity": 1
+      }
+    ],
+    "shipsTo": {
+      "customerName": "Alice Brown",
+      "shippingAddress": "500 Bay Street"
+    }
+  },
+  {
+    "orderDate": "2024-04-01",
+    "lineItems": [
+      {
+        "productName": "Valentines Box",
+        "components": ["Red Roses Bouquet", "Box of chocolates", "Love card", "Women's perfume"], 
+        "quantity": 1
+      },
+      {
+        "productName": "Birthday Box",
+        "components": ["Birthday cupcake", "$100 Visa Gift Card", "Birthday card"], 
+        "quantity": 1
+      }
+    ],
+    "shipsTo": {
+      "customerName": "Carlos Diaz",
+      "shippingAddress": "200 Yonge Street"
+    }
+  },
+  {
+    "orderDate": "2024-04-02",
+    "lineItems": [
+      {
+        "productName": "Client Gift Box",
+        "components": ["Bottle of wine", "Fruit basket", "Pen"], 
+        "quantity": 1
+      },
+      {
+        "productName": "Valentines Box",
+        "components": ["Red Roses Bouquet", "Box of chocolates", "Love card", "Women's perfume"], 
+        "quantity": 1
+      },
+      {
+        "productName": "Birthday Box",
+        "components": ["Birthday cupcake", "$100 Visa Gift Card", "Birthday card"], 
+        "quantity": 1
+      }
+    ],
+    "shipsTo": {
+      "customerName": "Emma White",
+      "shippingAddress": "300 King Street West"
+    }
+  }
+]

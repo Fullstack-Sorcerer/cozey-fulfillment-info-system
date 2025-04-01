@@ -1,0 +1,16 @@
+# Ignore node_modules directories
+**/node_modules/
+
+# Ignore .env files (if any)
+.env
+
+# Ignore any build artifacts or compiled files
+**/dist/
+**/build/
+
+# Ignore log files
+*.log
+
+# Ignore Yarn or npm lock files (optional, if you prefer not to track lock files)
+yarn.lock
+package-lock.json

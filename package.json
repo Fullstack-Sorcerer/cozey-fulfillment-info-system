@@ -1,0 +1,15 @@
+{
+  "name": "cozey-warehouse",
+  "version": "1.0.0",
+  "private": "true",
+  "scripts": {
+    "start": "concurrently \"yarn workspace frontend dev\" \"yarn workspace backend dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "orderId": "1",
+    "orderTotal": 150.00,
+    "orderDate": "2024-03-30",
+    "shippingAddress": "100 Dundas Street East",
+    "customer": {
+      "name": "John Smith",
+      "email": "john.smith@example.com"
+    },
+    "lineItems": [
+      {
+        "lineItemId": "101",
+        "productId": "valentines-box",
+        "productName": "Valentines Box",
+        "price": 40.00
+      },
+      {
+        "lineItemId": "102",
+        "productId": "birthday-box",
+        "productName": "Birthday Box",
+        "price": 50.00
+      },
+      {
+        "lineItemId": "103",
+        "productId": "client-gift-box",
+        "productName": "Client Gift Box",
+        "price": 60.00
+      }
+    ]
+  },
+  {
+    "orderId": "2",
+    "orderTotal": 120.00,
+    "orderDate": "2024-03-31",
+    "shippingAddress": "100 Queen Street East",
+    "customer": {
+      "name": "Rob Smith",
+      "email": "rob.smith@example.com"
+    },
+    "lineItems": [
+      {
+        "lineItemId": "201",
+        "productId": "valentines-box",
+        "productName": "Valentines Box",
+        "price": 40.00
+      }
+    ]
+  },
+  {
+    "orderId": "3",
+    "orderTotal": 110.00,
+    "orderDate": "2024-03-30",
+    "shippingAddress": "500 Bay Street",
+    "customer": {
+      "name": "Alice Brown",
+      "email": "alice.brown@example.com"
+    },
+    "lineItems": [
+      {
+        "lineItemId": "301",
+        "productId": "birthday-box",
+        "productName": "Birthday Box",
+        "price": 50.00
+      },
+      {
+        "lineItemId": "302",
+        "productId": "client-gift-box",
+        "productName": "Client Gift Box",
+        "price": 60.00
+      }
+    ]
+  },
+  {
+    "orderId": "4",
+    "orderTotal": 90.00,
+    "orderDate": "2024-04-01",
+    "shippingAddress": "200 Yonge Street",
+    "customer": {
+      "name": "Carlos Diaz",
+      "email": "carlos.diaz@example.com"
+    },
+    "lineItems": [
+      {
+        "lineItemId": "401",
+        "productId": "valentines-box",
+        "productName": "Valentines Box",
+        "price": 40.00
+      },
+      {
+        "lineItemId": "402",
+        "productId": "birthday-box",
+        "productName": "Birthday Box",
+        "price": 50.00
+      }
+    ]
+  },
+  {
+    "orderId": "5",
+    "orderTotal": 130.00,
+    "orderDate": "2024-04-02",
+    "shippingAddress": "300 King Street West",
+    "customer": {
+      "name": "Emma White",
+      "email": "emma.white@example.com"
+    },
+    "lineItems": [
+      {
+        "lineItemId": "501",
+        "productId": "client-gift-box",
+        "productName": "Client Gift Box",
+        "price": 60.00
+      },
+      {
+        "lineItemId": "502",
+        "productId": "valentines-box",
+        "productName": "Valentines Box",
+        "price": 40.00
+      },
+      {
+        "lineItemId": "503",
+        "productId": "birthday-box",
+        "productName": "Birthday Box",
+        "price": 50.00
+      }
+    ]
+  }
+]

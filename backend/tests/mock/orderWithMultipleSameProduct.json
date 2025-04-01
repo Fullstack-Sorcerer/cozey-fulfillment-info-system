@@ -1,0 +1,42 @@
+{
+    "orderId": "6",
+    "orderTotal": 130.00,
+    "orderDate": "2024-04-02",
+    "shippingAddress": "700 King Street West",
+    "customer": {
+      "name": "Emma Stone",
+      "email": "emma.stone@example.com"
+    },
+    "lineItems": [
+      {
+        "lineItemId": "501",
+        "productId": "client-gift-box",
+        "productName": "Client Gift Box",
+        "price": 60.00
+      },
+      {
+        "lineItemId": "502",
+        "productId": "valentines-box",
+        "productName": "Valentines Box",
+        "price": 40.00
+      },
+      {
+        "lineItemId": "503",
+        "productId": "valentines-box",
+        "productName": "Valentines Box",
+        "price": 40.00
+      },
+      {
+        "lineItemId": "504",
+        "productId": "birthday-box",
+        "productName": "Birthday Box",
+        "price": 50.00
+      },
+      {
+        "lineItemId": "505",
+        "productId": "birthday-box",
+        "productName": "Birthday Box",
+        "price": 50.00
+      }
+    ]
+}

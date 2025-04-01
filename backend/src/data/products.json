@@ -1,0 +1,30 @@
+[
+    {
+        "productId": "valentines-box",
+        "productName": "Valentines Box",
+        "components": [
+            {"componentId": "Red-Roses-Bouquet", "componentName": "Red Roses Bouquet"},
+            {"componentId": "Box-of-chocolates", "componentName": "Box of chocolates"},
+            {"componentId": "Love-card", "componentName": "Love card"},
+            {"componentId": "Womens-perfume", "componentName": "Women's perfume"}
+        ]
+    },
+    {
+        "productId": "birthday-box",
+        "productName": "Birthday Box",
+        "components": [
+            {"componentId": "Birthday-cupcake", "componentName": "Birthday cupcake"},
+            {"componentId": "$100-Visa-Gift-Card", "componentName": "$100 Visa Gift Card"},
+            {"componentId": "Birthday-card", "componentName": "Birthday card"}
+        ]
+    },
+    {
+        "productId": "client-gift-box",
+        "productName": "Client Gift Box",
+        "components": [
+            {"componentId": "Bottle-of-wine", "componentName": "Bottle of wine"},
+            {"componentId": "Fruit-basket", "componentName": "Fruit basket"},
+            {"componentId": "Pen", "componentName": "Pen"}
+        ]
+    }
+]
