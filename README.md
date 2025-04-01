@@ -9,10 +9,10 @@ With this service, our warehouse team can get the picking and packing lists they
 On each of these pages, the warehouse team simply needs to select a date and click Submit. So, the team can seek picking/packing information from anytime in the past.
 
 ### How to set it up
-
 1. Clone the project to your local environment
-2. Ideally use Node.js Jod (22.14.0)
-3. As the project uses the Yarn package manager, run ```yarn start``` here in the project ```/``` root directory to simultaneously start the front and backends.
+2. Ideally use Node.js (22.14.0)
+3. Run ```yarn install``` in ```/``` to install dependencies
+4. As the project uses the Yarn package manager, run ```yarn start``` here in the project ```/``` root directory to simultaneously start the front and backends.
 
 ### Notes on project structure
 * The Express-based backend is located in ```/backend```
