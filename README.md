@@ -12,7 +12,7 @@ On each of these pages, the warehouse team simply needs to select a date and cli
 
 1. Clone the project to your local environment
 2. Ideally use Node.js Jod (22.14.0)
-3. As the project uses the Yarn package manager, run ```yarn start``` to simultaneously start the front and backends.
+3. As the project uses the Yarn package manager, run ```yarn start``` here in the project ```/``` root directory to simultaneously start the front and backends.
 
 ### Note on project structure
 * The Express-based backend is located in ```/backend```
