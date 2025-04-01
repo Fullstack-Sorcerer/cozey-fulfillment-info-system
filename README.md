@@ -16,7 +16,7 @@ On each of these pages, the warehouse team simply needs to select a date and cli
 
 ### Note on project structure
 * The Express-based backend is located in ```/backend```
-  - Project data is located in /backend/src/data/ as .json files
+  - Project data is located in ```/backend/src/data/``` as ```.json``` files
 * The React/Next.js frontend is located in ```/frontend```
 Both the frontend and backend can also be started separately. Please refer to their READMEs for details.
 
