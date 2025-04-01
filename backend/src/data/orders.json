@@ -124,5 +124,94 @@
         "price": 50.00
       }
     ]
+  },
+  {
+    "orderId": "6",
+    "orderTotal": 130.00,
+    "orderDate": "2025-02-26",
+    "shippingAddress": "700 King Street West",
+    "customer": {
+      "name": "Emma Stone",
+      "email": "emma.stone@example.com"
+    },
+    "lineItems": [
+      {
+        "lineItemId": "501",
+        "productId": "client-gift-box",
+        "productName": "Client Gift Box",
+        "price": 60.00
+      },
+      {
+        "lineItemId": "502",
+        "productId": "valentines-box",
+        "productName": "Valentines Box",
+        "price": 40.00
+      },
+      {
+        "lineItemId": "503",
+        "productId": "valentines-box",
+        "productName": "Valentines Box",
+        "price": 40.00
+      },
+      {
+        "lineItemId": "504",
+        "productId": "birthday-box",
+        "productName": "Birthday Box",
+        "price": 50.00
+      },
+      {
+        "lineItemId": "505",
+        "productId": "birthday-box",
+        "productName": "Birthday Box",
+        "price": 50.00
+      }
+    ]
+  },
+  {
+    "orderId": "7",
+    "orderTotal": 60.00,
+    "orderDate": "2025-01-05",
+    "shippingAddress": "503 Bay Street",
+    "customer": {
+      "name": "Alice Townsend",
+      "email": "alice.townsend@example.com"
+    },
+    "lineItems": [
+      {
+        "lineItemId": "701",
+        "productId": "client-gift-box",
+        "productName": "Client Gift Box",
+        "price": 60.00
+      }
+    ]
+  },
+  {
+    "orderId": "8",
+    "orderTotal": 60.00,
+    "orderDate": "2025-01-05",
+    "shippingAddress": "744 Simcoe Street",
+    "customer": {
+      "name": "Queenan Wilcox",
+      "email": "qwilcox@mail.com"
+    },
+    "lineItems": [
+      {
+        "lineItemId": "801",
+        "productId": "birthday-box",
+        "productName": "Birthday Box",
+        "price": 50.00
+      }, {
+        "lineItemId": "802",
+        "productId": "valentines-box",
+        "productName": "Valentines Box",
+        "price": 40.00
+      },
+      {
+        "lineItemId": "803",
+        "productId": "birthday-box",
+        "productName": "Birthday Box",
+        "price": 50.00
+      }
+    ]
   }
 ]
