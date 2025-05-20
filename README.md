@@ -1,5 +1,7 @@
 # Fulfillment Information Service
-With this service, our warehouse team can get the picking and packing lists they need with a few button clicks! No more manually sifting through raw order data📜
+This project models a simple fulfillment information system that can be used by warehouse fulfillment teams to retrieve organized information about product stock information.
+
+No more manually sifting through raw order data!📜
 
 ### Here's where you'll find the functionality
 
@@ -26,6 +28,4 @@ Both the frontend and backend can also be started separately. Please refer to th
 * Backend unit tests are located in ```/backend/tests```
 * Frontend unit tests are located in a ```__tests__``` directory in each of ```/frontend/src/pages```, ```/frontend/src/components``` and ```frontend/src/lib```
 * **The most recent code coverage report had 100% coverage, as requested in the assignment**
-
-Thank you for your consideration and I sincerely look forward to the next stages with Cozey! 🛋️🚀
 
